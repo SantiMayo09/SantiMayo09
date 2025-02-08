@@ -1,6 +1,6 @@
 
 <div align= "center"> 
-<img src="https://i.imgur.com/wmYHq1n.png">
+<img src="https://i.imgur.com/QOayEv6.png">
 <h1>Hello Everybody, I’m <a href="https://www.linkedin.com/in/santiago-mayorga-a333a02b2/"> Santiago Mayorga </a> :D</h1>
 </div>  
 
