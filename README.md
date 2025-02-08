@@ -87,7 +87,7 @@
 <h1 align="center">🚀 Let's Build Something Awesome!</h1>
  <p>I'm passionate about game development, AI, augmented reality, and multimedia projects. Every challenge is an opportunity to learn, experiment, and create something unique. Whether it's making an AI play Uno, developing AR learning tools, or crafting immersive games, I love turning ideas into reality!
 
-This portfolio is a collection of some of my favorite projects, each one reflecting my skills, creativity, and problem-solving mindset. I'm always open to new ideas, collaborations, and exciting challenges.
+This GitHub is a collection of some of my favorite projects, each one reflecting my skills, creativity, and problem-solving mindset. I'm always open to new ideas, collaborations, and exciting challenges.
 
 💡 Got an interesting project? Want to chat about tech, games, or anything creative? Feel free to reach out! :D </p> 
 </div>
