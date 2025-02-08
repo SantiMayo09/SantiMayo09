@@ -44,7 +44,7 @@
         <h3> MythHunter </h3>   
          <img src="https://i.imgur.com/filS6iB.jpeg" alt="mythhunter" width=400px >
           <p></p>
-          <a href= "https://github.com/SantiMayo09/EchoBaby">
+          <a href= "https://nigolukas.itch.io/myth-hunter">
           <img src="https://img.shields.io/badge/itch.io-ff6961?style=for-the-badge&logo=itch.io&logoColor=black">
           </a>    
         <p>Set in rural Colombia during the 19XXs, the game immerses us in the adventures of Baudilio, an intrepid bounty hunter seeking fame and fortune. Hired across the country to confront the mythical creatures terrorizing the region, Baudilio embarks on a journey filled with dangers and mysteries. However, as he progresses in his mission, he will uncover a far more sinister truth: the real enemy poses a threat not only to the mythical beings but also to Mother Nature herself.</p>    
@@ -68,7 +68,7 @@
     <td align ="center"  width=50%>
       <h3> Web Service</h3>
       <p> Using Html, CSS, Javascript and PHP, a web service was created aimed at registering students by their respective professors to enter as research assistants.</p>
-      <a href= "https://github.com/Nigolukas/Riddikulus">
+      <a href= "https://github.com/SantiMayo09/ServicioWeb">
           <img src="https://img.shields.io/badge/GitHub-356ADE?style=for-the-badge&logo=GitHub&logoColor=black">
       </a>
   </tr>
